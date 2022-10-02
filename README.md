@@ -1,4 +1,7 @@
-# co66e480aa69a0d02cb5c9ab0
+# React info site
+<img height="500" src="/images/index.png"/> <br/>
+You can view the site [here](https://frolicking-biscochitos-bc5f70.netlify.app).<br/>
+This site created from Scrimba React course
 
 Quick start:
 
