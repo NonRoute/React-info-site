@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: #23252C;
+    margin: 0;
+}
+
+.container {
+    max-width: 317px;
+    margin: auto;
+    background-color: #1A1B21;
+    border-radius: 10px;
+    
+}
+
+header {
+    text-align: center;
+}
+
+header > img {
+    width: 317px;
+    margin: 0;
+}
+
+header > h1 {
+    margin: 21px 0 0 0;
+    font-size: 25px;
+    color: white;
+}
+
+header > h2 {
+    margin: 6px 0 0 0;
+    font-size: 12.8px;
+    font-weight: 400;
+    color: #F3BF99;
+}
+
+header > p {
+    margin: 8px 0 0 0;
+    font-size: 10.24px;
+    font-size: 12.8px;
+    color: white;
+}
+
+header > .email-btn {
+    width: 115px;
+    height: 34px;
+    background: white;
+    border-radius: 6px;
+    margin-top: 15px;
+    margin-right: 17px;
+}
+
+.email-img {
+    margin-right: 9.6px;
+}
+
+header > .in-btn {
+    color: white;
+    width: 115px;
+    height: 34px;
+    background: #5093E2;
+    border-radius: 6px;
+}
+
+.in-img {
+    margin-right: 9.6px;
+}
+
+.main {
+    font-weight: 700;
+    color: white;
+    margin: 0 36px;
+}
+
+.main > h1 {
+    font-size: 16px;
+    margin: 33px 0 0 0;
+}
+
+.main > p {
+    font-size: 10.24px;
+    margin: 5px 0 0 0;
+    font-weight: 400;
+}
+
+.footer-img {
+    background: #161619;
+    display: flex;
+    justify-content: center;
+    margin: 24px auto 0 auto;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.footer-img > img {
+    margin: 19px 12px;
+}
