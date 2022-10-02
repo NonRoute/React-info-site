@@ -1,7 +1,7 @@
 # React info site
+Scrimba React Section 1 Solo Project <br/>
 <img height="500" src="/images/index.png"/> <br/>
 You can view the site [here](https://frolicking-biscochitos-bc5f70.netlify.app).<br/>
-This site created from Scrimba React course
 
 Quick start:
 
